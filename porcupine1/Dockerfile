@@ -22,7 +22,7 @@ RUN \
         wheel \
     && .venv/bin/pip3 install --no-cache-dir \
         --extra-index-url https://www.piwheels.org/simple \
-        "wyoming-porcupine1 @ https://github.com/jesgarcas/hassio-addons/raw/18d10a594a6b6caa1ec0f53f2b93f753f53a3222/porcupine1/wyoming-porcupine1-1.2.0.tar.gz" \
+        "wyoming-porcupine1 @ https://github.com/jesgarcas/hassio-addons/raw/refs/heads/master/wyoming-porcupine1-1.2.1.tar.gz" \
     \
     && rm -rf /var/lib/apt/lists/*
 
