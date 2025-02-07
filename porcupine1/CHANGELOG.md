@@ -1,4 +1,7 @@
 # Changelog
+## 1.2.5
+
+- Deleted models and added glados
 
 ## 1.2.0
 
