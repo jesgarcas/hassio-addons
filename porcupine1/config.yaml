@@ -1,9 +1,9 @@
 ---
-version: 1.2.0
+version: 1.2.1
 slug: porcupine1
 name: porcupine1
-description: porcupine1 using the Wyoming protocol
-url: https://github.com/rhasspy/hassio-addons/tree/master/porcupine1
+description: porcupine1 using the Wyoming protocol with Glados
+url: https://github.com/jesgarcas/hassio-addons/tree/master/porcupine1
 arch:
   - amd64
   - aarch64
