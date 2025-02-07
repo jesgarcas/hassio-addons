@@ -1,5 +1,5 @@
 ---
-version: 1.2.1
+version: 1.2.3
 slug: porcupine1
 name: porcupine1
 description: porcupine1 using the Wyoming protocol with Glados
@@ -19,4 +19,4 @@ schema:
   debug_logging: bool
 ports:
   "10400/tcp": null
-homeassistant: 2023.9.0
+homeassistant: 2024.9.0
